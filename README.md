@@ -35,7 +35,7 @@ insights about sales, profit, and customer behavior.
 | Q10 | Total orders and sales per Ship Mode | groupby + agg |
 
 ## 💡 Key Business Insights
-- Regular Air is most used ship mode — 6,270 orders
+- Regular Air is most used ship mode  6,270 orders
 - Total revenue exceeds $14.9 million
 - Technology is the most profitable category
 - West and East regions lead in total sales
@@ -50,5 +50,5 @@ insights about sales, profit, and customer behavior.
 
 ## 👤 Author
 **Salim Bello Muhammad**
-3MTT Data Analytics — NextGen Cohort
+3MTT Data Analytics  NextGen Cohort
 Kano, Nigeria
